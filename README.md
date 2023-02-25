@@ -4,9 +4,17 @@
 
 <div align="center" width="50">
 
-
 </div>
 
+<center>
+  
+  ```Web developer``` 
+  ```Web exploiter``` 
+  ```Leo coder``` 
+  ```.py coder```
+
+</center> 
+  
 <div align="center">
 
 You have finally discovered my Github profile. <br>
