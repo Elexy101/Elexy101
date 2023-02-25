@@ -36,3 +36,6 @@ or <a href="mailto:emmanuellinus013@gmail.com"><b>email</b></a> me.
 <a href="https://twitter.com/Elexy101" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 </div>
+
+#Active SOCIAL
+```wechat id: emmanuel_ekpe```
